@@ -18,7 +18,7 @@ Projeto exclusivo promovido pela Rocketseat.
 <br>
 
 <p align="center">
-  <img alt="Agregador de Links" src="./dark.jpg" width="50%">
+  <img alt="Agregador de Links" src="https://ibb.co/yPXQnms" width="50%">
 </p>
 
 ## 🚀 Tecnologias
