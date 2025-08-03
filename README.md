@@ -34,10 +34,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Landing Page é um agregador de Links de suas principais Redes Sociais, para usar como cartão de visitas.
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/design/W3bepoiKh5xY2djqB5eJfi/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=10-620&p=f&t=pqxKElt9hEw663jE-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
 ---
 
 Feito com ♥ by Lênin Fontella
